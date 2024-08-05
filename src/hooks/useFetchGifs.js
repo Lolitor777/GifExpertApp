@@ -20,5 +20,5 @@ export const useFetchGifs = ( item ) => {
     return {
         images,
         isLoading
-    }
+    } 
 }
